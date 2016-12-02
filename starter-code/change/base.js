@@ -10,9 +10,9 @@ $(document).ready(function(){
     var c = $('#total').val(Number(a)+Number(b));
   })
 
-$(selector).change()
+// $(selector).change()
 
-$('body').append("<button type="button">Reset</button>"
+// $('body').append("<button type="button">Reset</button>")
 
 
 })
