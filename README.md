@@ -1,5 +1,12 @@
 # Training: DOM Events & jQuery
 
+Completed by Michael
+https://github.com/mblair415/jquery-events-training
+The work was challenging.
+The level of progression was not linear.
+Nothing we've looked at seems to have prepared us to complete key press.
+
+
 In this training, you'll practice with some of the most common DOM events in jQuery:
 
 - ready
@@ -87,7 +94,7 @@ The next time they hit the spacebar again, record their new "end" time.
 
 Then, calculate the time difference, and display it on the page.
 
-Stretch: update the display to show the time while the clock is running. 
+Stretch: update the display to show the time while the clock is running.
 
 
 
