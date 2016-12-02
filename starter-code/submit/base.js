@@ -6,4 +6,9 @@ $(document).ready(function(){
 
   $("#time").text( Date.now() );
 
+  $("form").on("submit", function handleClick(event){
+      event.preventDefault();
+
+  });
+
 })
